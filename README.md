@@ -14,7 +14,9 @@
 >  These immigrants are brave heroes to fight against anything
 
 - [ ] Completely of HTTP: https://github.com/mehranalam/HTTP-Communication
-- [ ] Completely of Emoji: https://github.com/Mehranalam/Emoji
+- [ ] Completely of Emoji: https://github.com/mehranalam/Emoji
+- [ ] Completely of Bardeal: https://github.com/mehranalam/Bardeal
+- [ ] Completely of NewsApp: https://github.com/mehranalam/newsapp
 
 <!--
 **Mehranalam/Mehranalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
