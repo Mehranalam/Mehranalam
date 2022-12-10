@@ -1,8 +1,9 @@
  <div align="center">
    <img src="1613067487_12justin_3c.jpg">
+ <p><br></p>
 </div>
 
-<p><br></p>
+
 >  Migration is a strange story
 >  One of those stories that I am sure that its people are incredibly brave!
 >  As much as they were able to enjoy everything
