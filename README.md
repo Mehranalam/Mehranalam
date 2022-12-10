@@ -1,6 +1,5 @@
  <div align="center">
    <img src="1613067487_12justin_3c.jpg">
-   <p><i>LinkedIn: https://www.linkedin.com/in/mehran-alam-beigi-0b8a1122a</i></p>
 </div>
 <!--
 **Mehranalam/Mehranalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
