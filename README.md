@@ -13,7 +13,7 @@
 >  How strange are those who are bored with everything
 >  These immigrants are brave heroes to fight against anything
 
-[ ] ok
+- [ ] ok
 
 <!--
 **Mehranalam/Mehranalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
