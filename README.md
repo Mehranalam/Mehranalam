@@ -1,4 +1,4 @@
-<img img="1613067487_12justin_3c.jpg">
+<img src="1613067487_12justin_3c.jpg">
 
 <!--
 **Mehranalam/Mehranalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
