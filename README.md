@@ -18,6 +18,11 @@
 - [ ] Completely of Bardeal: https://github.com/mehranalam/Bardeal
 - [ ] Completely of NewsApp: https://github.com/mehranalam/newsapp
 
+**For Learn Repository:**
+
+- [ ] Path of JPL: https://github.com/mehranalam/javaPractice
+- [ ] Path of CPL: https://github.com/mehranalam/learncpp
+
 <!--
 **Mehranalam/Mehranalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
