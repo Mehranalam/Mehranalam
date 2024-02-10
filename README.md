@@ -1,4 +1,4 @@
-## Mehran Alam Beigi - Smart
+## Mehran Alam Beigi
 
 <!--
 **Mehranalam/Mehranalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
