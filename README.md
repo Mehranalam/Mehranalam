@@ -1,6 +1,6 @@
 <div align="center">
   <img src="IMG_20231228_215252_826.jpg"/>
-  <p><i>My mama always said life was like a box of chocolates. You never know what you're gonna get</i></p>
+  <p><i>My mama always said life was like a box of chocolates. You never know what you're gonna get . <a href="Mehran Alam Beigi - CV.pdf">Download My CV</a></i></p>
 </div>
 <!--
 **Mehranalam/Mehranalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
