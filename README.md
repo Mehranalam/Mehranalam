@@ -1,4 +1,4 @@
-I am Mehran Alam Begi, a junior web developer, I love the algorithm of creating new things, I am always in the process of learning and I will be very happy for new collaborations. To send cooperation requests, send an email to `mehraxxn@gmail.com` - projects and work done I gave it as a list, you can see :
+I am Mehran Alam Beigi, a junior web developer, I love the algorithm of creating new things, I am always in the process of learning and I will be very happy for new collaborations. To send cooperation requests, send an email to `mehraxxn@gmail.com` - projects and work done I gave it as a list, you can see :
 
 ### Flagship projects
   - An open source project for the interpretation of blood test results, by receiving information such as WBC and RBC, interprets the test result completely automatically: **https://github.com/Mehranalam/Interpretation-blood-test-results**
