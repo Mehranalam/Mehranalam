@@ -9,6 +9,7 @@ I am Mehran Alam Beigi, a junior web developer, I love the algorithm of creating
 ### Algorithm:
   - Knight-tour-theory : **https://github.com/Mehranalam/Knight-tour-theory**
   - A set of algorithms for the Java language: **https://github.com/Mehranalam/javaPractice**
+  - Step-by-step solution of Grok Algor book exercises and conventional algorithms. This is a move to learn algorithmic thinking: **Private Repository**
 
 ### Front-end skills:
   - blog [ static content generator ] : **https://github.com/Mehranalam/Blog**
