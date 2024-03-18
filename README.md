@@ -5,7 +5,6 @@ I am Mehran Alam Beigi, a junior web developer, I love the algorithm of creating
     
   - This library is actually a shell of cURL and provides CURL features and functions under classes and interfaces for use in Java and Android projects. This library is expected to run on all platforms under the JVM, the CURL `curl.se` tool is a platform-independent terminal kit with a long history : **https://github.com/Mehranalam/HTTP-Communication**
 
-----------------------------------------------
 
 ### Algorithm:
   - Knight-tour-theory : **https://github.com/Mehranalam/Knight-tour-theory**
