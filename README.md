@@ -1,5 +1,17 @@
 I am Mehran Alam Beigi, a junior developer, I love the algorithm of creating new things, I am always in the process of learning and I will be very happy for new collaborations. To send cooperation requests, send an email to `mehraxxn@gmail.com` - projects and work done I gave it as a list, you can see :
 
+### Organization
+- Distro Foundation 🤍: https://github.com/Distro-ir
+  
+   - Distro Official site: The official site of the ‍‍Distro Foundation a foundation for supporting the open source world, producing and monitoring projects beneficial to the development communities of the world. https://github.com/Distro-ir/Distro
+     
+   - To : this program is useful to list your todo. everywhere this program run, it will make a file named '.to' in the directory that runed in. this file is the database of the program in a kind of json format, more like a dictionary in python: https://github.com/Distro-ir/to
+ 
+   - Disshort - A open source template of Shorten URL service: https://github.com/Distro-ir/Disshort
+ 
+   - find-ip You can use this program to get the IP of a website: https://github.com/Distro-ir/Find-IP
+ 
+
 ### Flagship projects
   - An open source project for the interpretation of blood test results, by receiving information such as WBC and RBC, interprets the test result completely automatically: **https://github.com/Mehranalam/Interpretation-blood-test-results**
     
