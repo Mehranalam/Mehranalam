@@ -33,3 +33,9 @@ I am Mehran Alam Beigi, a junior developer, I love the algorithm of creating new
 ### stackoverflow.com 
 
 - https://stackoverflow.com/users/19050424/mehran-alam-beigi
+
+
+
+<!--
+https://trello.com/invite/b/0cvzVEKZ/ATTIc6403d66315dd4c8c55905c2087c351f8CAF321D/algebra-topology-differential-calculus-and-optimization-theory-for-computer-science-and-machine-learning
+-->
