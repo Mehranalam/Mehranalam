@@ -1,7 +1,5 @@
 I am Mehran Alam Beigi, a junior developer, I love the algorithm of creating new things, I am always in the process of learning and I will be very happy for new collaborations.
 
-<img src="IMG_20240322_222434_920.jpg"/>
-
 To send cooperation requests, send an email to `mehraxxn@gmail.com` - projects and work done I gave it as a list, you can see :
 
 ### Organization
