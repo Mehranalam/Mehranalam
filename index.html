@@ -18,7 +18,7 @@
           nowTimes = date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds(),
           timeElem = document.getElementById('timer');
 
-      new CountUpTimer("12:11:2", function(times, prams) {
+      new CountUpTimer("0:0:0", function(times, prams) {
           timeElem.innerText = times;
           if(prams.isNextDay) {
               location.reload();
