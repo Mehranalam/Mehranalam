@@ -6,7 +6,7 @@ To send cooperation requests, send an email to `mehraxxn@gmail.com`.
 
 <details>
   <summary>
- projects and work done I gave it as a list. [ Click ]
+ projects and work done I gave it as a list.
   </summary>
 
 ### Organization
