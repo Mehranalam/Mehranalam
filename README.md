@@ -2,7 +2,12 @@ I am Mehran Alam Beigi, a junior developer, I love the algorithm of creating new
 
 <img src="https://www.codewars.com/users/Mehrun/badges/large"/>
 
-To send cooperation requests, send an email to `mehraxxn@gmail.com` - projects and work done I gave it as a list, you can see :
+To send cooperation requests, send an email to `mehraxxn@gmail.com`.
+
+<details>
+  <summary>
+ projects and work done I gave it as a list. [ Click ]
+  </summary>
 
 ### Organization
 - Distro Foundation 🤍: https://github.com/Distro-ir
@@ -36,8 +41,7 @@ To send cooperation requests, send an email to `mehraxxn@gmail.com` - projects a
 
 ### Android app:
   - A reliable and open source news application by receiving information from CNN `edition.cnn.com` and using the Volley library `github.com/google/volley` to communicate with CNN : **https://github.com/Mehranalam/NewsApp**
-
-  - A store application on the Android platform has a management panel for the store manager to add and remove products and manage the application in the best way by using firebase to register products and register and register store users using the Firebase Auth service `firebase.google.com` : **https://github.com/Mehranalam/Bardeal**
+- A store application on the Android platform has a management panel for the store manager to add and remove products and manage the application in the best way by using firebase to register products and register and register store users using the Firebase Auth service `firebase.google.com` : **https://github.com/Mehranalam/Bardeal**
 
 ### Telegram Bot:
   - A Telegram group bot to manage the group to prevent the entry of suspicious and malicious people in order to harm the group by actions such as: spam, scam, ads, etc. (CAPTCHA with Emoji) : **https://github.com/Mehranalam/Emoji**
@@ -55,3 +59,6 @@ To send cooperation requests, send an email to `mehraxxn@gmail.com` - projects a
 <!--
 https://trello.com/invite/b/0cvzVEKZ/ATTIc6403d66315dd4c8c55905c2087c351f8CAF321D/algebra-topology-differential-calculus-and-optimization-theory-for-computer-science-and-machine-learning
 -->
+
+
+</details>
