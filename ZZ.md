@@ -143,3 +143,5 @@ if __name__ == '__main__':
 7. **Bot Commands**: The bot starts with a `/start` command.
 
 This script sets up a weekly job to fetch, summarize, and send the latest algorithmic-mathematical article to the Telegram channel `@diaraToken`. Adjust the `fetch_article` function to match the structure of your source website.
+
+7212552198:AAE10QYLm_qC0e2MV7pV0WYYVvJ66kfKPvI
