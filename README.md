@@ -6,9 +6,11 @@ I am Mehran Alam Beigi, a junior developer, I love the algorithm of creating new
 
 To send cooperation requests, send an email to `mehraxxn@gmail.com`.
 
+<hr>
+
 <details>
   <summary>
- projects and work done I gave it as a list.
+ <b>Projects and work done I gave it as a list.</b>
   </summary>
 
 ### Organization
