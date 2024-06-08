@@ -28,11 +28,14 @@ To send cooperation requests, send an email to `mehraxxn@gmail.com`.
     
   - This library is actually a shell of cURL and provides CURL features and functions under classes and interfaces for use in Java and Android projects. This library is expected to run on all platforms under the JVM, the CURL `curl.se` tool is a platform-independent terminal kit with a long history : **https://github.com/Mehranalam/HTTP-Communication**
 
+  - A Python program that can transfer text copied on a phone to a laptop can be used as a combination of web service, mobile and desktop applications. For this purpose, we use Flask for the backend to create a small server that can receive the copied texts and then display these texts on the laptop : **https://github.com/Mehranalam/LapCopy**
+
 
 ### Algorithm:
   - Knight-tour-theory : **https://github.com/Mehranalam/Knight-tour-theory**
   - A set of algorithms for the Java language: **https://github.com/Mehranalam/javaPractice**
-  - Step-by-step solution of Grok Algor book exercises and conventional algorithms. This is a move to learn algorithmic thinking: **Private Repository**
+  - PyTex: **https://github.com/Mehranalam/PyTex**
+  - PyDown: **https://github.com/Mehranalam/PyDown**
 
 ### Front-end skills:
   - blog [ static content generator ] : **https://github.com/Mehranalam/Blog**
