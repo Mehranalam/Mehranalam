@@ -10,7 +10,7 @@ To send cooperation requests, send an email to `mehraxxn@gmail.com`.
 
 <details>
   <summary>
- <b><img width="20" height="20" src="https://img.icons8.com/officel/20/nui2.png" alt="nui2"/> Projects and work done I gave it as a list.</b>
+ <b><img width="20" height="20" src="https://img.icons8.com/officel/30/nui2.png" alt="nui2"/> Projects and work done I gave it as a list.</b>
   </summary>
 
 ### Organization
