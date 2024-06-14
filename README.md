@@ -4,6 +4,10 @@ I am Mehran Alam Beigi, a junior developer, I love the algorithm of creating new
 
 [![Mehran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehranalam)](https://github.com/mehranalam/)
 
+----------
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehranalam&hide_progress=true)
+
 To send cooperation requests, send an email to `mehraxxn@gmail.com`.
 
 <hr>
