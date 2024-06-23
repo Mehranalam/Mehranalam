@@ -18,6 +18,28 @@
 - **اندوسکوپ‌های سفت**: برای دسترسی مستقیم، مانند آرتروسکوپی یا لاپاراسکوپی.
 - **اندوسکوپ‌های کپسولی**: مانند یک قرص بلعیده می‌شوند و این دستگاه‌های بی‌سیم کوچک تصاویر را در حین عبور از دستگاه گوارش منتقل می‌کنند.
 
+
+##### شماتیک کپسولی:
+
+
+<img src="https://www.manhattangastroenterology.com/wp-content/uploads/2022/09/Capsule-Endoscopy-System.jpg"/>
+
+----
+
+<img src="https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/11/15/17/43/ds00319_-my00139_im04443_mcdc7_capsuleendoscopythu_jpg.jpg"/>
+  ##### شماتیک انعطاف پذیر:
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIXUKPrVXRop15mw0e1JxxIZjRd_7BcyP9xw&s"/>
+
+----
+
+<img src="https://lh6.googleusercontent.com/proxy/c0jvHPT2GJ3_hevp0n0IvlQaotNV04E5o_MLZAEPTnbYgUu4af8Gq3brPGwXiIiZgcxa9bn6Jr8Hg_r6aW_NPjssjuzlX83JGYWTVW4vxnr_Vd9150FRtO-PTiwfV-Zbr4yyxuCd"/>
+
+##### شماتیک سفت:
+
+<img src="https://www.ecoptik.net/uploads/image/20230207/%E5%9B%BE%E7%89%871.png"/>
+
+
 #### استفاده از اندوسکوپ
 1. **آماده‌سازی**: بیمار معمولاً برای کاهش ناراحتی آرام‌بخش می‌شود. آماده‌سازی‌های خاصی مانند ناشتا بودن ممکن است بسته به نوع اندوسکوپی لازم باشد.
 2. **ورود**: اندوسکوپ به آرامی از طریق بازشوهای طبیعی یا برش‌های کوچک به بدن وارد می‌شود.
