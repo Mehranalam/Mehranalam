@@ -3,9 +3,9 @@ title: "دستگاه آندوسکوپی و مروری بر کاتالوگ محص
 dates: "تیر ۱۴۰۳"
 draft: false
 bg_image: "images/IMG.jpg"
-description : "بیوسنسور ها نامِ گروهی از حسگرها می باشد،و از دو کلمه بیو به معنی حسگر تشکیل شده است. که طراحی  (bio)‌ به معنی زیست و سنسور (sensor) آنها بگونه ای میباشد تا بتوانند تنها با یک مادهٔ خاص واکنش نشان دهند"
+description : "اندوسکوپی یک روش تشخیصی پزشکی کم‌تهاجمی است که از یک ابزار تخصصی به نام اندوسکوپ برای مشاهده سطوح داخلی اعضا یا بافت‌ها با جزئیات استفاده می‌کند"
 image: "images/Screenshot_20240612_191307_OneDrive.jpg"
-edit: "https://github.com/Mehranalam/Medical-Engineering-Association/blob/main/content/english/blog/biosensor.md"
+edit: "https://github.com/Mehranalam/Medical-Engineering-Association/blob/main/content/english/blog/Endoscopy.md"
 authors:
   - name: "مهران علم‌بیگی"
     id: "1"
@@ -16,15 +16,12 @@ categories: ["مقاله پژوهشی"]
 pretitle: "مقاله پژوهشی"
 reftitle: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299329/"
 pdfurl: ""
-ref: ""
+ref: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299329/"
 long: "۵ روز"
 tags: [ "الکتریک","برق", "گرایش بیوالکتریک","تجهیزات پزشکی"]
 type: "post"
 math: true
 ---
-
-# دستگاه آندوسکوپی و مروری بر کاتالوگ محصول
-
 #### مقدمه
 اندوسکوپی یک روش تشخیصی پزشکی کم‌تهاجمی است که از یک ابزار تخصصی به نام اندوسکوپ برای مشاهده سطوح داخلی اعضا یا بافت‌ها با جزئیات استفاده می‌کند. این راهنما نحوه کار دستگاه‌های اندوسکوپی، اجزای آن، نحوه استفاده و هدف کلی این تکنولوژی را پوشش می‌دهد.
 
