@@ -4,7 +4,7 @@ dates: "تیر ۱۴۰۳"
 draft: false
 bg_image: "images/IMG.jpg"
 description : "اندوسکوپی یک روش تشخیصی پزشکی کم‌تهاجمی است که از یک ابزار تخصصی به نام اندوسکوپ برای مشاهده سطوح داخلی اعضا یا بافت‌ها با جزئیات استفاده می‌کند"
-image: "images/Screenshot_20240612_191307_OneDrive.jpg"
+image: "images/68747470733a2f2f7777772e65636f7074696b2e6e65742f75706c6f6164732f696d6167652f32303233303230372f254535253942254245254537253839253837312e706e67.png"
 edit: "https://github.com/Mehranalam/Medical-Engineering-Association/blob/main/content/english/blog/Endoscopy.md"
 authors:
   - name: "مهران علم‌بیگی"
