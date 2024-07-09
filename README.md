@@ -1,10 +1,8 @@
-### Mehran
-
-I am Mehran Alam Beigi, a junior developer, I love the algorithm of creating new things, I am always in the process of learning and I will be very happy for new collaborations.
+I am Mehran Alam Beigi, a `junior full stack developer` & `Biomedical engineering student`, I love the algorithm of creating new things, I am always in the process of learning and I will be very happy for new collaborations.
 
 [![Mehran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehranalam)](https://github.com/mehranalam/)
 
-To send cooperation requests, send an email to `mehraxxn@gmail.com`.
+To send cooperation requests, send an email or message to `mehraxxn@gmail.com` or `@Mehruna in telegram`.
 
 <hr>
 
