@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>انجمن مهندسی پزشکی</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <style>
+      body {
+    font-family: 'IRANSans', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    direction: rtl;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #007BFF;
+    padding: 15px;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+header nav ul li {
+    margin: 0 10px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+footer div a {
+    color: #007BFF;
+    margin: 0 5px;
+    text-decoration: none;
+}
+
+/* Media Queries for Responsive Design */
+@media (max-width: 768px) {
+    header nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    header nav ul li {
+        margin: 5px 0;
+    }
+
+    main {
+        padding: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        font-size: 14px;
+    }
+
+    header {
+        text-align: center;
+    }
+
+    footer div a {
+        display: block;
+        margin: 5px 0;
+    }
+}
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#news">اخبار</a></li>
+                <li><a href="#events">رویدادها</a></li>
+                <li><a href="#articles">مقالات ویژه</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="news">
+            <h2>اخبار</h2>
+            <p>تازه‌ترین اخبار انجمن...</p>
+        </section>
+
+        <section id="events">
+            <h2>رویدادها</h2>
+            <p>رویدادهای پیش رو...</p>
+        </section>
+
+        <section id="articles">
+            <h2>مقالات ویژه</h2>
+            <p>آخرین مقالات تخصصی...</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 انجمن مهندسی پزشکی - دانشگاه آزاد اسلامی واحد تهران مرکزی</p>
+        <div>
+            <a href="#">اینستاگرام</a> | <a href="#">لینکدین</a> | <a href="#">توئیتر</a>
+        </div>
+    </footer>
+</body>
+</html>
