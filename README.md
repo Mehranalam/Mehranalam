@@ -4,7 +4,7 @@ I am Mehran Alam Beigi, a `junior full stack developer` & `Biomedical engineerin
 
 To send cooperation requests, send an email or message to `mehraxxn@gmail.com` or `@Mehruna in telegram`.
 
-<hr>
+<!--
 
 <details>
   <summary>
@@ -61,9 +61,5 @@ To send cooperation requests, send an email or message to `mehraxxn@gmail.com` o
 
 
 
-<!--
-https://trello.com/invite/b/0cvzVEKZ/ATTIc6403d66315dd4c8c55905c2087c351f8CAF321D/algebra-topology-differential-calculus-and-optimization-theory-for-computer-science-and-machine-learning
--->
-
-
 </details>
+-->
