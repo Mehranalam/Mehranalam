@@ -4,7 +4,7 @@ I am Mehran Alam Beigi, a `junior full stack developer` & `Biomedical engineerin
 
 To send cooperation requests, send an email or message to `mehraxxn@gmail.com` or `@Mehruna in telegram`.
 
-<!--
+<hr>
 
 <details>
   <summary>
@@ -62,4 +62,3 @@ To send cooperation requests, send an email or message to `mehraxxn@gmail.com` o
 
 
 </details>
--->
