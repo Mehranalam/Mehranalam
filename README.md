@@ -51,6 +51,8 @@ To send cooperation requests, send an email or message to `mehraxxn@gmail.com` o
 ### Telegram Bot:
   - A Telegram group bot to manage the group to prevent the entry of suspicious and malicious people in order to harm the group by actions such as: spam, scam, ads, etc. (CAPTCHA with Emoji) : **https://github.com/Mehranalam/Emoji**
 
+  - Diara Colab is an automatic article receiving service that is integrated with Google Scholar. It is designed to streamline the process of collecting and managing academic publications by automatically pulling in articles relevant to your research interests: **https://github.com/Mehranalam/Diara-Colab**
+
 <br>
 
 - More : https://github.com/Mehranalam?tab=repositories
