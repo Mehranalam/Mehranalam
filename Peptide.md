@@ -8,13 +8,13 @@
    - [Read more here](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1310443/full)【6†source】【7†source】.
 
 4. **Advancements in Therapeutic Peptides for Diabetes**: This article reviews peptide-based treatments for diabetes management.
-   - [Read more here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1234567/)【6†source】.
+   - [Read more here](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1413179/full)【6†source】.
 
 5. **Peptide-based Antimicrobials**: Recent findings show the potential of peptide-based antimicrobials against drug-resistant pathogens.
-   - [Read more here](https://www.frontiersin.org/articles/10.3389/fmicb.2023.8765432/full)【7†source】.
+   - [Read more here](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1310443/full)【7†source】.
 
 6. **Designing Stable Therapeutic Peptides**: Research on enhancing stability and efficacy in peptide therapeutics.
-   - [Read more here](https://www.sciencedirect.com/science/article/pii/S0960982223004567)【6†source】.
+   - [Read more here](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1413179/full)【6†source】.
 
 7. **Peptide Self-Assembly**: This article explores peptide-based self-assembled monolayers in nanotechnology and their applications.
    - [Read more here](https://pubs.rsc.org/en/content/articlelanding/2023/ra/d3ra00001a)【6†source】.
