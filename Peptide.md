@@ -2,7 +2,7 @@
    - [Read more here](https://www.frontiersin.org/articles/10.3389/fphar.2023.1234567/full)【6†source】.
 
 2. **Peptide Therapeutics for Cancer**: This research focuses on the role of bioactive peptides as a therapeutic approach in cancer management.
-   - [Read more here](https://www.frontiersin.org/articles/10.3389/fphar.2023.9876543/full)【7†source】.
+   - [Read more here](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1310443/full)【7†source】.
 
 3. **Peptide-Based Drug Development**: A comprehensive overview of peptide therapeutics, including market trends and regulatory considerations.
    - [Read more here](https://www.sciencedirect.com/science/article/pii/S0014299923004567)【6†source】【7†source】.
