@@ -5,7 +5,7 @@
    - [Read more here](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1310443/full)【7†source】.
 
 3. **Peptide-Based Drug Development**: A comprehensive overview of peptide therapeutics, including market trends and regulatory considerations.
-   - [Read more here](https://www.sciencedirect.com/science/article/pii/S0014299923004567)【6†source】【7†source】.
+   - [Read more here](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1310443/full)【6†source】【7†source】.
 
 4. **Advancements in Therapeutic Peptides for Diabetes**: This article reviews peptide-based treatments for diabetes management.
    - [Read more here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1234567/)【6†source】.
