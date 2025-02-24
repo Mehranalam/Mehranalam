@@ -7,8 +7,9 @@ Carbon nanotubes (CNTs) are one-dimensional nanomaterials composed of rolled gra
 
 نانولوله‌های کربنی (CNT) مواد نانو ساختاری یک‌بعدی هستند که از پیچیدن صفحات گرافن به صورت لوله تشکیل می‌شوند. خواص فیزیکی و شیمیایی منحصر به فرد آن‌ها مانند استحکام کششی بالا، سطح ویژه زیاد و رسانایی الکتریکی عالی، آن‌ها را به گزینه‌هایی بسیار امیدوارکننده برای کاربردهای مختلف زیست‌پزشکی مانند دارورسانی، تصویربرداری و مهندسی بافت تبدیل کرده است.
 
-**References:**  
-- 0
+
+- [https://journalofbiosafety.ir/article-1-139-fa.pdf](https://journalofbiosafety.ir/article-1-139-fa.pdf)
+
 
 ---
 
@@ -18,8 +19,8 @@ CNTs exhibit remarkable properties such as nanoscale dimensions (typically with 
 
 نانولوله‌های کربنی خواصی شگفت‌انگیز از جمله ابعاد در مقیاس نانو (معمولاً با قطرهایی در حدود ۱ تا ۱۰۰ نانومتر)، نسبت سطح به طول بالا و قابلیت تغییر شیمیایی دارند. این ویژگی‌ها نه تنها عملکرد آن‌ها را به عنوان حامل‌های دارویی بهبود می‌بخشد بلکه بر نحوه برهم‌کنش آن‌ها با سیستم‌های زیستی نیز تأثیرگذار است.
 
-**References:**  
-- 1
+
+-  [https://ostad.nit.ac.ir/payaidea/ospic/file7873.pdf](https://ostad.nit.ac.ir/payaidea/ospic/file7873.pdf)
 
 ---
 
@@ -29,8 +30,7 @@ Once inside the body, CNTs are subjected to oxidative degradation. Reactive oxyg
 
 پس از ورود به بدن، نانولوله‌های کربنی در معرض فرآیندهای اکسیداتیو قرار می‌گیرند. رادیکال‌های آزاد اکسیژن (ROS) که در نتیجه فرآیندهای سلولی تولید می‌شوند، می‌توانند به پیوندهای کربن-کربن در ساختار نانولوله‌ها واکنش نشان داده و منجر به شکستن و تجزیه نهایی ساختار آن‌ها شوند. این فرآیند اکسیداتیو، مکانیسم طبیعی اصلی برای حذف این ذرات خارجی از بدن محسوب می‌شود.
 
-**References:**  
-- 2
+- [https://journalofbiosafety.ir/article-1-139-fa.pdf](https://journalofbiosafety.ir/article-1-139-fa.pdf)
 
 ---
 
@@ -40,8 +40,8 @@ Enzymes such as myeloperoxidase, which are released by activated macrophages, pl
 
 آنزیم‌هایی مانند مایلوپراکسیداز که توسط ماکروفاژهای فعال آزاد می‌شوند، نقش حیاتی در کاتالیز تولید رادیکال‌های آزاد اکسیژن دارند. این آنزیم‌ها با افزایش واکنش‌های اکسیداتیو بر روی سطح CNTها، تجزیه آن‌ها را تسریع کرده و باعث کاهش ماندگاری این نانو مواد در بافت‌ها می‌شوند.
 
-**References:**  
-- 3
+
+- [https://journalofbiosafety.ir/article-1-139-fa.pdf](https://journalofbiosafety.ir/article-1-139-fa.pdf)
 
 ---
 
@@ -51,8 +51,8 @@ After systemic administration, CNTs distribute throughout the body and are predo
 
 پس از تجویز سیستمیک، نانولوله‌های کربنی در سراسر بدن پخش شده و عمدتاً توسط سیستم رتیکولاندوتلیال (RES) جذب می‌شوند، به ویژه در اندام‌هایی مانند کبد، طحال و ریه‌ها. این توزیع زیستی تحت تأثیر اندازه، شکل و خواص سطحی نانولوله‌ها قرار دارد که میزان جذب آن‌ها توسط سلول‌های فاگوسیتیک را تعیین می‌کند.
 
-**References:**  
-- 4
+
+- [http://journal.rums.ac.ir/article-1-4069-fa.html](http://journal.rums.ac.ir/article-1-4069-fa.html)
 
 ---
 
@@ -62,8 +62,7 @@ The body primarily eliminates CNTs through the biliary and renal excretion pathw
 
 بدن به طور عمده CNTها را از طریق مسیرهای دفع صفراوی و کلیوی از بین می‌برد. اگرچه ماکروفاژها این ذرات را بلعیده و سعی در هضم آن‌ها دارند، اما به دلیل ساختار مقاوم آن‌ها، برخی CNTها ممکن است به طور کامل تجزیه نشوند و در نتیجه مدت زمان نگهداری آن‌ها در بافت‌ها طولانی‌تر شده و روند دفع آن‌ها کند شود.
 
-**References:**  
-- 5
+- [http://journal.rums.ac.ir/article-1-4069-fa.html](http://journal.rums.ac.ir/article-1-4069-fa.html)
 
 ---
 
@@ -73,8 +72,7 @@ Surface functionalization, such as carboxylation or PEGylation, can modify the s
 
 عاملی‌سازی سطحی مانند کربوکسیلاسیون یا پگ‌سازی می‌تواند حلالیت و پراکندگی CNTها را در مایعات زیستی تغییر دهد. این تغییرات سطحی نه تنها از تجمع و چسبندگی ذرات جلوگیری کرده و سازگاری زیستی را بهبود می‌بخشد، بلکه موجب تسهیل تجزیه آنزیمی و دفع سریع‌تر آن‌ها از بدن می‌شود.
 
-**References:**  
-- 6
+-  [https://ostad.nit.ac.ir/payaidea/ospic/file7873.pdf](https://ostad.nit.ac.ir/payaidea/ospic/file7873.pdf)
 
 ---
 
@@ -84,8 +82,7 @@ Several intrinsic factors determine the persistence of CNTs in the body, includi
 
 عوامل ذاتی متعددی بر ماندگاری CNTها در بدن تأثیر می‌گذارند، از جمله اندازه ذرات، طول و میزان تجمع. CNTهایی با ابعاد کوچکتر و تغییرات سطحی مناسب به طور کلی تحت تأثیر تجزیه آنزیمی و دفع سریع‌تر قرار می‌گیرند، در حالی که نانولوله‌های بزرگ‌تر یا متجمع ممکن است برای مدت زمان طولانی‌تری باقی بمانند و خطر سمیت مزمن را افزایش دهند.
 
-**References:**  
-- 7
+- [https://ostad.nit.ac.ir/payaidea/ospic/file7873.pdf](https://ostad.nit.ac.ir/payaidea/ospic/file7873.pdf)
 
 ---
 
@@ -95,10 +92,9 @@ Exposure to CNTs, even at low concentrations, has been associated with the induc
 
 قرارگیری در معرض CNTها، حتی در غلظت‌های پایین، با القای استرس اکسیداتیو و واکنش‌های التهابی در سلول‌ها همراه بوده است. تولید رادیکال‌های آزاد اکسیژن نه تنها به تجزیه CNTها کمک می‌کند بلکه می‌تواند باعث آسیب سلولی و کاهش عملکرد اندام‌ها، به ویژه کبد و ریه‌ها شود.
 
-**References:**  
-- 8  
-- 9
-
+- [http://journal.rums.ac.ir/article-1-4069-fa.html](http://journal.rums.ac.ir/article-1-4069-fa.html)
+- [https://journalofbiosafety.ir/article-1-139-fa.pdf](https://journalofbiosafety.ir/article-1-139-fa.pdf)
+  
 ---
 
 ## 10. Conclusion and Future Directions
@@ -109,17 +105,8 @@ In summary, the degradation and excretion of CNTs in the body are governed by co
 **Persian:**  
 به طور خلاصه، تخریب و دفع CNTها در بدن تحت تأثیر تعاملات پیچیده‌ای نظیر واکنش‌های اکسیداتیو، فعالیت آنزیمی و خواص فیزیکی و شیمیایی ذاتی نانولوله‌ها قرار دارد. در حالی که عاملی‌سازی سطحی می‌تواند باعث تسهیل دفع و کاهش سمیت شود، تحقیقات بیشتری برای بهینه‌سازی این تغییرات و اطمینان از استفاده ایمن از CNTها در کاربردهای زیست‌پزشکی، همچنین برای درک کامل سرنوشت طولانی‌مدت آن‌ها در بدن لازم است.
 
-**References:**  
-- 10  
-- 11  
-- 12
-
----
-
-## Further Reading and Suggested Sources
-
-1. [PDF: Toxicity and Environmental Impact of Carbon Nanotubes – Biosafety Journal](https://journalofbiosafety.ir/article-1-139-fa.pdf)  
-2. [Study on Oxidative Stress Parameters and Liver Enzymes in Exposure to CNTs – Journal of Rafsanjan University of Medical Sciences](http://journal.rums.ac.ir/article-1-4069-fa.html)  
-3. [Review on Carbon-Based Nanomaterials in Bone Tissue Engineering (PDF)](https://ostad.nit.ac.ir/payaidea/ospic/file7873.pdf)
+- [https://journalofbiosafety.ir/article-1-139-fa.pdf](https://journalofbiosafety.ir/article-1-139-fa.pdf)
+- [http://journal.rums.ac.ir/article-1-4069-fa.html](http://journal.rums.ac.ir/article-1-4069-fa.html)
+- [https://ostad.nit.ac.ir/payaidea/ospic/file7873.pdf](https://ostad.nit.ac.ir/payaidea/ospic/file7873.pdf)
 
 ---
