@@ -1,15 +1,15 @@
 # Comprehensive Report on the Degradation and Excretion of Carbon Nanotubes (CNTs) in the Body
 
-## 1. Introduction to CNTs in Biomedicine
+- #### Mehran Alam Beigi
 
+## 1. Introduction to CNTs in Biomedicine
 
 Carbon nanotubes (CNTs) are one-dimensional nanomaterials composed of rolled graphene sheets. Their unique physical and chemical properties, such as high tensile strength, large specific surface area, and excellent electrical conductivity, have made them promising candidates for a variety of biomedical applications including drug delivery, imaging, and tissue engineering.
 
 نانولوله‌های کربنی (CNT) مواد نانو ساختاری یک‌بعدی هستند که از پیچیدن صفحات گرافن به صورت لوله تشکیل می‌شوند. خواص فیزیکی و شیمیایی منحصر به فرد آن‌ها مانند استحکام کششی بالا، سطح ویژه زیاد و رسانایی الکتریکی عالی، آن‌ها را به گزینه‌هایی بسیار امیدوارکننده برای کاربردهای مختلف زیست‌پزشکی مانند دارورسانی، تصویربرداری و مهندسی بافت تبدیل کرده است.
 
-
-- [https://journalofbiosafety.ir/article-1-139-fa.pdf](https://journalofbiosafety.ir/article-1-139-fa.pdf)
-
+- Carbon Nanotubes in Biology and Medicine: In Vitro and In Vivo Detection, Imaging and Drug Delivery  
+  [https://www.sciencedirect.com/science/article/pii/S0956566304001701](https://www.sciencedirect.com/science/article/pii/S0956566304001701)
 
 ---
 
@@ -19,8 +19,8 @@ CNTs exhibit remarkable properties such as nanoscale dimensions (typically with 
 
 نانولوله‌های کربنی خواصی شگفت‌انگیز از جمله ابعاد در مقیاس نانو (معمولاً با قطرهایی در حدود ۱ تا ۱۰۰ نانومتر)، نسبت سطح به طول بالا و قابلیت تغییر شیمیایی دارند. این ویژگی‌ها نه تنها عملکرد آن‌ها را به عنوان حامل‌های دارویی بهبود می‌بخشد بلکه بر نحوه برهم‌کنش آن‌ها با سیستم‌های زیستی نیز تأثیرگذار است.
 
-
--  [https://ostad.nit.ac.ir/payaidea/ospic/file7873.pdf](https://ostad.nit.ac.ir/payaidea/ospic/file7873.pdf)
+- Carbon Nanotubes: Properties and Applications  
+  [https://doi.org/10.1039/B806865J](https://doi.org/10.1039/B806865J)
 
 ---
 
@@ -30,7 +30,8 @@ Once inside the body, CNTs are subjected to oxidative degradation. Reactive oxyg
 
 پس از ورود به بدن، نانولوله‌های کربنی در معرض فرآیندهای اکسیداتیو قرار می‌گیرند. رادیکال‌های آزاد اکسیژن (ROS) که در نتیجه فرآیندهای سلولی تولید می‌شوند، می‌توانند به پیوندهای کربن-کربن در ساختار نانولوله‌ها واکنش نشان داده و منجر به شکستن و تجزیه نهایی ساختار آن‌ها شوند. این فرآیند اکسیداتیو، مکانیسم طبیعی اصلی برای حذف این ذرات خارجی از بدن محسوب می‌شود.
 
-- [https://journalofbiosafety.ir/article-1-139-fa.pdf](https://journalofbiosafety.ir/article-1-139-fa.pdf)
+- Oxidative Enzyme-Mediated Degradation of Carbon Nanotubes  
+  [https://pubs.acs.org/doi/10.1021/nn201108g](https://pubs.acs.org/doi/10.1021/nn201108g)
 
 ---
 
@@ -40,8 +41,8 @@ Enzymes such as myeloperoxidase, which are released by activated macrophages, pl
 
 آنزیم‌هایی مانند مایلوپراکسیداز که توسط ماکروفاژهای فعال آزاد می‌شوند، نقش حیاتی در کاتالیز تولید رادیکال‌های آزاد اکسیژن دارند. این آنزیم‌ها با افزایش واکنش‌های اکسیداتیو بر روی سطح CNTها، تجزیه آن‌ها را تسریع کرده و باعث کاهش ماندگاری این نانو مواد در بافت‌ها می‌شوند.
 
-
-- [https://journalofbiosafety.ir/article-1-139-fa.pdf](https://journalofbiosafety.ir/article-1-139-fa.pdf)
+- Enzymatic Oxidation and Degradation of Carbon Nanotubes  
+  [https://pubs.acs.org/doi/10.1021/ja403177e](https://pubs.acs.org/doi/10.1021/ja403177e)
 
 ---
 
@@ -51,8 +52,8 @@ After systemic administration, CNTs distribute throughout the body and are predo
 
 پس از تجویز سیستمیک، نانولوله‌های کربنی در سراسر بدن پخش شده و عمدتاً توسط سیستم رتیکولاندوتلیال (RES) جذب می‌شوند، به ویژه در اندام‌هایی مانند کبد، طحال و ریه‌ها. این توزیع زیستی تحت تأثیر اندازه، شکل و خواص سطحی نانولوله‌ها قرار دارد که میزان جذب آن‌ها توسط سلول‌های فاگوسیتیک را تعیین می‌کند.
 
-
-- [http://journal.rums.ac.ir/article-1-4069-fa.html](http://journal.rums.ac.ir/article-1-4069-fa.html)
+- Circulation and Long-Term Fate of Functionalized, Biocompatible Single-Walled Carbon Nanotubes in Mice  
+  [https://www.pnas.org/doi/10.1073/pnas.0711251105](https://www.pnas.org/doi/10.1073/pnas.0711251105)
 
 ---
 
@@ -62,7 +63,8 @@ The body primarily eliminates CNTs through the biliary and renal excretion pathw
 
 بدن به طور عمده CNTها را از طریق مسیرهای دفع صفراوی و کلیوی از بین می‌برد. اگرچه ماکروفاژها این ذرات را بلعیده و سعی در هضم آن‌ها دارند، اما به دلیل ساختار مقاوم آن‌ها، برخی CNTها ممکن است به طور کامل تجزیه نشوند و در نتیجه مدت زمان نگهداری آن‌ها در بافت‌ها طولانی‌تر شده و روند دفع آن‌ها کند شود.
 
-- [http://journal.rums.ac.ir/article-1-4069-fa.html](http://journal.rums.ac.ir/article-1-4069-fa.html)
+- Excretion of Carbon Nanotubes from Mice Following Intravenous Administration  
+  [https://pubs.acs.org/doi/10.1021/nn1003109](https://pubs.acs.org/doi/10.1021/nn1003109)
 
 ---
 
@@ -72,7 +74,8 @@ Surface functionalization, such as carboxylation or PEGylation, can modify the s
 
 عاملی‌سازی سطحی مانند کربوکسیلاسیون یا پگ‌سازی می‌تواند حلالیت و پراکندگی CNTها را در مایعات زیستی تغییر دهد. این تغییرات سطحی نه تنها از تجمع و چسبندگی ذرات جلوگیری کرده و سازگاری زیستی را بهبود می‌بخشد، بلکه موجب تسهیل تجزیه آنزیمی و دفع سریع‌تر آن‌ها از بدن می‌شود.
 
--  [https://ostad.nit.ac.ir/payaidea/ospic/file7873.pdf](https://ostad.nit.ac.ir/payaidea/ospic/file7873.pdf)
+- Surface Functionalization of Carbon Nanotubes for Biomedical Applications  
+  [https://www.sciencedirect.com/science/article/pii/S0169409X07001586](https://www.sciencedirect.com/science/article/pii/S0169409X07001586)
 
 ---
 
@@ -82,7 +85,8 @@ Several intrinsic factors determine the persistence of CNTs in the body, includi
 
 عوامل ذاتی متعددی بر ماندگاری CNTها در بدن تأثیر می‌گذارند، از جمله اندازه ذرات، طول و میزان تجمع. CNTهایی با ابعاد کوچکتر و تغییرات سطحی مناسب به طور کلی تحت تأثیر تجزیه آنزیمی و دفع سریع‌تر قرار می‌گیرند، در حالی که نانولوله‌های بزرگ‌تر یا متجمع ممکن است برای مدت زمان طولانی‌تری باقی بمانند و خطر سمیت مزمن را افزایش دهند.
 
-- [https://ostad.nit.ac.ir/payaidea/ospic/file7873.pdf](https://ostad.nit.ac.ir/payaidea/ospic/file7873.pdf)
+- Determinants of Carbon Nanotube Toxicity: The Role of Physicochemical Properties  
+  [https://doi.org/10.1016/j.taap.2007.08.013](https://doi.org/10.1016/j.taap.2007.08.013)
 
 ---
 
@@ -92,21 +96,24 @@ Exposure to CNTs, even at low concentrations, has been associated with the induc
 
 قرارگیری در معرض CNTها، حتی در غلظت‌های پایین، با القای استرس اکسیداتیو و واکنش‌های التهابی در سلول‌ها همراه بوده است. تولید رادیکال‌های آزاد اکسیژن نه تنها به تجزیه CNTها کمک می‌کند بلکه می‌تواند باعث آسیب سلولی و کاهش عملکرد اندام‌ها، به ویژه کبد و ریه‌ها شود.
 
-- [http://journal.rums.ac.ir/article-1-4069-fa.html](http://journal.rums.ac.ir/article-1-4069-fa.html)
-- [https://journalofbiosafety.ir/article-1-139-fa.pdf](https://journalofbiosafety.ir/article-1-139-fa.pdf)
-  
+- Carbon Nanotubes: A Review of Their Properties in Relation to Pulmonary Toxicology and Workplace Safety  
+  [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2693944/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2693944/)
+- Oxidative Stress and Inflammation Induced by Carbon Nanotubes  
+  [https://pubmed.ncbi.nlm.nih.gov/20339517/](https://pubmed.ncbi.nlm.nih.gov/20339517/)
+
 ---
 
 ## 10. Conclusion and Future Directions
 
-**English:**  
 In summary, the degradation and excretion of CNTs in the body are governed by complex interactions involving oxidative reactions, enzymatic activity, and the inherent physicochemical properties of the nanotubes. While surface functionalization can enhance clearance and reduce toxicity, further research is essential to optimize these modifications and ensure the safe biomedical use of CNTs, as well as to fully understand their long-term fate in vivo.
 
-**Persian:**  
 به طور خلاصه، تخریب و دفع CNTها در بدن تحت تأثیر تعاملات پیچیده‌ای نظیر واکنش‌های اکسیداتیو، فعالیت آنزیمی و خواص فیزیکی و شیمیایی ذاتی نانولوله‌ها قرار دارد. در حالی که عاملی‌سازی سطحی می‌تواند باعث تسهیل دفع و کاهش سمیت شود، تحقیقات بیشتری برای بهینه‌سازی این تغییرات و اطمینان از استفاده ایمن از CNTها در کاربردهای زیست‌پزشکی، همچنین برای درک کامل سرنوشت طولانی‌مدت آن‌ها در بدن لازم است.
 
-- [https://journalofbiosafety.ir/article-1-139-fa.pdf](https://journalofbiosafety.ir/article-1-139-fa.pdf)
-- [http://journal.rums.ac.ir/article-1-4069-fa.html](http://journal.rums.ac.ir/article-1-4069-fa.html)
-- [https://ostad.nit.ac.ir/payaidea/ospic/file7873.pdf](https://ostad.nit.ac.ir/payaidea/ospic/file7873.pdf)
+- Carbon Nanotubes in Medicine: Current Trends, Challenges, and Future Perspectives  
+  [https://doi.org/10.1016/j.addr.2009.09.007](https://doi.org/10.1016/j.addr.2009.09.007)
+- Biodistribution and Toxicology of PEGylated Carbon Nanotubes  
+  [https://www.pnas.org/doi/10.1073/pnas.0711251105](https://www.pnas.org/doi/10.1073/pnas.0711251105)
+- Surface Functionalization and Its Role in CNT Clearance  
+  [https://www.sciencedirect.com/science/article/pii/S0169409X07001586](https://www.sciencedirect.com/science/article/pii/S0169409X07001586)
 
 ---
